@@ -68,7 +68,6 @@ button:active {
 .container{
   border: solid 5px;
   border-color: #f48b99;
-  height: 920px;
 }
 .start{
   color: #E75480;
@@ -89,5 +88,11 @@ button:active {
   display: none;
 }
 .eat{
+  display: none;
+}
+.resu{
+  display: none;
+}
+.project{
   display: none;
 }
